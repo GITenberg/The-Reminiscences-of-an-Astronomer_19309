@@ -1,0 +1,28 @@
+_repo: The-Reminiscences-of-an-Astronomer_19309
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Newcomb, Simon
+    birthdate: 1835
+    deathdate: 1909
+    gutenberg_agent_id: '1378'
+    url: http://www.gutenberg.org/2009/agents/1378
+    wikipedia: http://en.wikipedia.org/wiki/Simon_Newcomb
+description: ''
+gutenberg_issued: '2006-09-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19309'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Newcomb, Simon, 1835-1909'
+- !lcsh 'Astronomers -- United States -- Biography'
+- !lcc 'QB'
+title: The Reminiscences of an Astronomer
+url: http://www.gutenberg.org/ebooks/19309
