@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1378
     wikipedia: http://en.wikipedia.org/wiki/Simon_Newcomb
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19309#The-Reminiscences-of-an-Astronomer
 gutenberg_issued: '2006-09-17'
 gutenberg_type: Text
 identifiers:
